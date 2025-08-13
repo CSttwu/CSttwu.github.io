@@ -13,8 +13,8 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
 - 2025.08: I have been invited to serve as a reviewer for TCSVT.
 - 2025.06: I graduated from Beijing Jiaotong University with a Master's degree.
 - 2025.05: I have been admitted to Tianjin University as a PhD student.
-- 2024.12: One paper has been accepted by AAAI 2025 (CCF A).
-- 2023.12: One paper has been accepted by AAAI 2024 (CCF A).
+- 2024.12: One paper has been accepted by AAAI 2025 (<span style="color:red;">CCF A</span>).
+- 2023.12: One paper has been accepted by AAAI 2024 (<span style="color:red;">CCF A</span>).
   
 📑 Publications
 ------
@@ -31,7 +31,7 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
     <td style="border:none;">
       <h3 style="color:blue;">KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</h3>
       <p>Tingting Wu, Zhendong Li, Zhibin Gu, Jiazheng Yuan, Songhe Feng</p>
-      <p>Annual AAAI Conference on Artificial Intelligence (AAAI)</p>
+      <p style="font-style:italic;">Annual AAAI Conference on Artificial Intelligence (AAAI)</p>
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
     <td style="border:none;">
       <h3 style="color:blue;"> Low-Rank Kernel Tensor Learning for Incomplete Multi-View Clustering</h3>
       <p>Tingting Wu, Songhe Feng, Jiazheng Yuan</p>
-      <p> Annual AAAI Conference on Artificial Intelligence (AAAI)</p>
+      <p style="font-style:italic;> Annual AAAI Conference on Artificial Intelligence (AAAI)</p>
     </td>
   </tr>
 </table>
