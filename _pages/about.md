@@ -64,7 +64,7 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
 - 2021.06: Excellent Graduated Graduate Student of ShanDong University of Techonlogy University.(校优秀毕业生)
 - 2019.10: Outstanding Student, ShanDong University of Techonlogy University. (校优秀学生)
 
-📖 Educations
+👩‍🎓 Educations
 ------
 - 2025.09 - now, Ph.D student, TianJin University, Tianjin, China.
 - 2022.09 - 2025.06, Master, BeiJing JiaoTong University, Beijing, China.
