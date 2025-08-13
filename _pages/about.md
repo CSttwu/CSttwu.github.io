@@ -31,11 +31,28 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
     <td style="border:none;">
       <h3>Name: KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</h3>
       <p><strong>Authors: </strong>Tingting Wu, Zhendong Li, Zhibin Gu, Jiazheng Yuan, Songhe Feng</p>
-      <p><strong>Conference：</strong>AAAI 2025</p>
+      <p><strong>Conference：</strong> *Annual AAAI Conference on Artificial Intelligence (AAAI)*</p>
     </td>
   </tr>
 </table>
 
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td width="300" valign="top" align="center" style="border:none;">
+      <div>
+        <span style="background-color:#FFD700; padding:2px 6px; border-radius:4px; font-weight:bold;">
+          AAAI 2024
+        </span>
+      </div>
+      <img src="../images/LRKT_AAAI24.png" alt="AAAI 2024" width="100%"/>
+    </td>
+    <td style="border:none;">
+      <h3>Name: Low-Rank Kernel Tensor Learning for Incomplete Multi-View Clustering</h3>
+      <p><strong>Authors: </strong>Tingting Wu, Songhe Feng, Jiazheng Yuan</p>
+      <p><strong>Conference：</strong> *Annual AAAI Conference on Artificial Intelligence (AAAI)*</p>
+    </td>
+  </tr>
+</table>
 
 🏅 Honors and Awards
 ------
