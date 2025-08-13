@@ -26,7 +26,7 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
           AAAI 2025
         </span>
       </div>
-      <img src="../images/KOALA_AAAI2025.png" alt="AAAI 2025" width="100%"/>
+      <img src="../images/KOALA_AAAI25.png" alt="AAAI 2025" width="100%"/>
     </td>
     <td style="border:none;">
       <h3>Name: KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</h3>
