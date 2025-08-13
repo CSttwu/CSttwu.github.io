@@ -29,9 +29,9 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
       <img src="../images/KOALA_AAAI25.png" alt="AAAI 2025" width="100%"/>
     </td>
     <td style="border:none;">
-      <h3>Name: KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</h3>
-      <p><strong>Authors: </strong>Tingting Wu, Zhendong Li, Zhibin Gu, Jiazheng Yuan, Songhe Feng</p>
-      <p><strong>Conference：</strong> *Annual AAAI Conference on Artificial Intelligence (AAAI)*</p>
+      <h3 style="color:blue;">KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</h3>
+      <p>Tingting Wu, Zhendong Li, Zhibin Gu, Jiazheng Yuan, Songhe Feng</p>
+      <p>Annual AAAI Conference on Artificial Intelligence (AAAI)</p>
     </td>
   </tr>
 </table>
@@ -47,22 +47,22 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
       <img src="../images/LRKT_AAAI24.png" alt="AAAI 2024" width="100%"/>
     </td>
     <td style="border:none;">
-      <h3>Name: Low-Rank Kernel Tensor Learning for Incomplete Multi-View Clustering</h3>
-      <p><strong>Authors: </strong>Tingting Wu, Songhe Feng, Jiazheng Yuan</p>
-      <p><strong>Conference：</strong> *Annual AAAI Conference on Artificial Intelligence (AAAI)*</p>
+      <h3 style="color:blue;"> Low-Rank Kernel Tensor Learning for Incomplete Multi-View Clustering</h3>
+      <p>Tingting Wu, Songhe Feng, Jiazheng Yuan</p>
+      <p> Annual AAAI Conference on Artificial Intelligence (AAAI)</p>
     </td>
   </tr>
 </table>
 
 🏅 Honors and Awards
 ------
-- 2025.06 Excellent Graduated Graduate Student of BeiJing JiaoTong University.(校优秀毕业生)
-- 2025.06 Outstanding master thesis of Beijing Jiaotong University.(校优秀硕士论文)
-- 2024.12 National scholarship, BeiJing JiaoTong University. (研究生国家奖学金)
-- 2024.10 Outstanding Student Cadre, BeiJing JiaoTong University. (校优秀学生干部)
-- 2023.10 Outstanding Student, BeiJing JiaoTong University. (校优秀学生)
-- 2021.06 Excellent Graduated Graduate Student of ShanDong University of Techonlogy University.(校优秀毕业生)
-- 2019.10 Outstanding Student, ShanDong University of Techonlogy University. (校优秀学生)
+- 2025.06: Excellent Graduated Graduate Student of BeiJing JiaoTong University.(校优秀毕业生)
+- 2025.06: Outstanding master thesis of Beijing Jiaotong University.(校优秀硕士论文)
+- 2024.12: National scholarship, BeiJing JiaoTong University. (研究生国家奖学金)
+- 2024.10: Outstanding Student Cadre, BeiJing JiaoTong University. (校优秀学生干部)
+- 2023.10: Outstanding Student, BeiJing JiaoTong University. (校优秀学生)
+- 2021.06: Excellent Graduated Graduate Student of ShanDong University of Techonlogy University.(校优秀毕业生)
+- 2019.10: Outstanding Student, ShanDong University of Techonlogy University. (校优秀学生)
 
 📖 Educations
 ------
