@@ -18,21 +18,20 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
   
 📑 Publications
 ------
-<table>
+<table border="0" style="border-collapse: collapse;">
   <tr>
-    <td width="300" valign="top" align="center">
+    <td width="300" valign="top" align="center" style="border:none;">
       <div>
         <span style="background-color:#FFD700; padding:2px 6px; border-radius:4px; font-weight:bold;">
           AAAI 2025
         </span>
       </div>
-      <img src="KOALA_AAAI2025.png" alt="AAAI 2024 Paper" width="100%"/>
+      <img src="images/KOALA_AAAI2025.png" alt="AAAI 2025" width="100%"/>
     </td>
-    <td>
+    <td style="border:none;">
       <h3>Name: KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</h3>
       <p><strong>Authors: </strong>Tingting Wu, Zhendong Li, Zhibin Gu, Jiazheng Yuan, Songhe Feng</p>
       <p><strong>Conference：</strong>AAAI 2025</p>
-      <p><strong>Abstract：</strong>Incomplete Multi-View Clustering (IMVC) has made significant progress by optimally merging multiple pre-specified incomplete views. Most existing IMVC algorithms operate under the assumption that view alignment is known, but in practice, the coupling information between views may be absent, thereby limiting the practical applicability of these methods. Being aware of this, we propose a novel IMVC method named Kernel cOupling And eLement imputAtion induced Multi-View Clustering (KOALA), which sufficiently explores the nonlinear relationship among features and optimally processes a group of kernels with missing and unaligned elements to simultaneously resolve multi-view clustering problem under both uncoupled and incomplete scenarios. Specifically, we first introduce a cross-kernel alignment learning strategy to reconstruct the coupling relation-ships among multiple kernels, which effectively captures high-order nonlinear relationships among samples and enhances alignment accuracy. Additionally, a low-rank tensor constraint is imposed on the optimizable alignment kernel tensor, facilitating the effective imputation of missing ker-nel elements by leveraging consistency information across views. Subsequently, we develop an alternative optimization approach with promising convergence to solve the resultant optimization problem. Extensive experimental results on various multi-view datasets demonstrate that the KOALA method achieves remarkable clustering performance.</p>
     </td>
   </tr>
 </table>
