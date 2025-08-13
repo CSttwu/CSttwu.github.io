@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Computing at Tianjin University](https://cic.tju.edu.cn/) (TJU), supervised by Prof. [Qilong Wang](https://csqlwang.github.io/homepage/). Her research interests lie in Computer Version and Machine Learning.
+Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/) (TJU), supervised by Prof. [Qilong Wang](https://csqlwang.github.io/homepage/). Her research interests lie in Computer Version and Machine Learning.
 
 🔥 News
 ======
