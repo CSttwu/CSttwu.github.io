@@ -49,7 +49,7 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
     <td style="border:none;">
       <h3 style="color:blue;"> Low-Rank Kernel Tensor Learning for Incomplete Multi-View Clustering</h3>
       <p>Tingting Wu, Songhe Feng, Jiazheng Yuan</p>
-      <p style="font-style:italic;> Annual AAAI Conference on Artificial Intelligence (AAAI)</p>
+      <p style="font-style:italic;"> Annual AAAI Conference on Artificial Intelligence (AAAI)</p>
     </td>
   </tr>
 </table>
