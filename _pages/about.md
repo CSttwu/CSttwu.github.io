@@ -10,14 +10,14 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
 
 📢 News
 ======
-- 2024.12:One paper has been accepted by AAAI 2025 (CCF A)
-- 2023.12：One paper has been accepted by AAAI 2024 (CCF A)
+- 2024.12: One paper has been accepted by AAAI 2025 (CCF A)
+- 2023.12: One paper has been accepted by AAAI 2024 (CCF A)
   
 📑 Publications
 ------
 
 
-🏅 **Honors and Awards**
+🏅 Honors and Awards
 ------
 - 
 - 
@@ -25,7 +25,7 @@ Tingting Wu (吴婷婷) is a PhD student in the School of [Intelligence and Comp
 📖 Educations
 ------
 - 2025.09 - now, Ph.D student,  TianJin University, TianJin, China.
-- 2022.09 - 2025.06, Master, BeiJing Jiaotong University, BeiJing, China.
+- 2022.09 - 2025.06, Master, BeiJing JiaoTong University, BeiJing, China.
 - 2018.09 - 2022.06, Undergraduate, ShanDong University of Techonlogy, ShanDong, China.
 
 
