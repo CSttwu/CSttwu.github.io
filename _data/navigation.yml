@@ -9,16 +9,22 @@
 
 main:
   - title: "About me"
+    url: "#about-me"
 
   - title: "News"
+    url: “#news”
 
   - title: "Publications"
-
+    url: "#publications"
+    
   - title: "Honors and Awards"
+    url: "#honors-and-awards"
 
   - title: "Educations"
+    url: "#educations"
 
   - title: "Services"
+    url: "#services"
   - #title: "Publications"
     #url: /publications/
 
